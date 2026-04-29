@@ -1,7 +1,9 @@
 # Match Information Decoder
+
 This python program decodes and unpacks match details and information from a word(16-bit) input.
 
 ## Usage
+
 1. Run the program
 2. Enter a hexadecimal number when prompted
 3. The program will output the details about the match
